@@ -211,7 +211,7 @@ plt.show()
 ```
 </details>  
 
-- Note : The completed code and details can be found in [Download jupyter notebook](https://github.com/ChanikaJan/GeoPython/blob/d6827ce28f172dc7e651ee3b10be853ba6a542b7/notebooks/Chapter04.ipynb)
+- Note : The completed code and details can be found in [Download jupyter notebook](https://github.com/ChanikaJan/GeoPython/blob/d6827ce28f172dc7e651ee3b10be853ba6a542b7/notebooks)
 
 ### Case Studay Output :
 
