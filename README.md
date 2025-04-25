@@ -17,7 +17,7 @@ The course covers essential geospatial techniques using Python, including:
 
 ## 📖 Chapter Workflow Summaries
 
-<img src="/images/Workflow.jpg" alt="Workflow" width="650" height="450"/>  
+<img src="/images/Workflow.jpg" alt="Workflow" width="480">  
 
 ---
 
@@ -200,9 +200,9 @@ plt.show()
 
 ### Case Studay Output :  
 
-<img src="/images/FinalOutput01_CaseStudy.jpg?raw=true" alt="Workflow" width="500" height="470"/>  
+<img src="/images/FinalOutput01_CaseStudy.jpg?raw=true" alt="Workflow" width="480">  
 
-<img src="/images/FinalOutput_CaseStudy.jpg?raw=true" alt="Workflow" width="500" height="470"/>  
+<img src="/images/FinalOutput_CaseStudy.jpg?raw=true" alt="Workflow" width="480">  
 
 ---
 
