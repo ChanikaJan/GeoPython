@@ -213,9 +213,11 @@ plt.show()
 
 - Note : The completed code and details can be found in [Download jupyter notebook](https://github.com/ChanikaJan/GeoPython/blob/d6827ce28f172dc7e651ee3b10be853ba6a542b7/notebooks)
 
-### Case Studay Output :
+### Case Studay Output :  
 
-<img src="/images/FinalOutput_CaseStudy.jpg?raw=true" alt="Workflow" width="650" height="450"/>  
+<img src="/images/FinalOutput01_CaseStudy.jpg?raw=true" alt="Workflow" width="500" height="470"/>  
+
+<img src="/images/FinalOutput_CaseStudy.jpg?raw=true" alt="Workflow" width="500" height="470"/>  
 
 ---
 
