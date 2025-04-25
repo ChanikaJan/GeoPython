@@ -15,7 +15,7 @@ The course covers essential geospatial techniques using Python, including:
 
 ---
 
-## 📖 Chapter Workfolw Summaries 
+## 📖 Chapter Workflow Summaries
 
 <img src="/images/Workflow.jpg" alt="Workflow" width="650" height="450"/>  
 
