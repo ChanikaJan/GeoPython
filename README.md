@@ -22,7 +22,7 @@ The course covers essential geospatial techniques using Python, including:
 ---
 
 
-## 📖 Case Studay
+## 📖 Artisanal Mining Sites Case Study 
 
 
 
@@ -158,7 +158,6 @@ print(closest_national_park(single_mine, national_parks))
 mining_sites['closest_park'] = mining_sites.geometry.apply(closest_national_park,national_parks=national_parks)
 print(mining_sites.head())
 
-
 ## Import and plot raster data
 
 # Import the rasterio package
@@ -173,20 +172,6 @@ import rasterio.plot
 # Plot the raster layer with the mining sites
 ax = rasterio.plot.show(src, cmap='terrain')
 mining_sites.plot(ax=ax , color='red',markersize=1)
-plt.show()
-
-# Import the rasterio package
-import rasterio
-
-# Open the raster dataset
-src = rasterio.open("central_africa_vegetation_map_foraf.tif")
-
-# Import the plotting functionality of rasterio
-import rasterio.plot
-
-# Plot the raster layer with the mining sites
-ax = rasterio.plot.show(src) 
-mining_sites.plot(ax=ax, color='red', markersize=1)
 plt.show()
 
 
